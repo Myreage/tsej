@@ -40,6 +40,7 @@
   },
   "homepage": "https://github.com/mathieueveillard/js-kata-starter#readme",
   "dependencies": {
-    "ts-node": "^10.9.1"
+    "ts-node": "^10.9.1",
+    "chalk": "4.1.2"
   }
 }
